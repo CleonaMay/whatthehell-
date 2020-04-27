@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS for styling and layout-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link href="style.css" type="text/css" rel="stylesheet">
+        <link href='https://fonts.googleapis.com/css?family=merriweather' rel='stylesheet'>    </head>
+    
+<body>
+    <div class="container">
+        <div id="header">
+            <div class="row">
+                <div class="col-sm-6"><img src="budsandflowerslogo.jpg"></div>
+                <div class="col-sm-6">
+                    <div id="nav">
+                        <ul>
+                            <li><a href="Home">Home</a></li>
+                            <li><a href="birds">Birds</a></li>
+                            <li><a href="flowers">Flowers</a></li>
+                            <li><a href="creatures">Creatures</a></li>
+                            <li><a href="trees">Trees</a></li>
+                        </ul>
+                    </div>
+                </div>        
+    </div> 
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+          <h1 class="display-4">Fluid jumbotron</h1>
+          <p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+        </div>
+      </div>
+
+    </div>
+    <div id="content">
+        <div id="feature">
+            <div class="row">
+                <div class="col-sm-12"></div>
+            <h2>A place for Irelands Birds, Flowers, Trees and Creatures</h2>
+        </div>
+        </div>
+        <div id="article">
+            <div class="row">
+                <div class="col-sm-8">
+                    <img src="robin.jpg.jpg" alt="Irish Robin"></div>
+                    <div class="col-sm-4">
+                    <p>Birds</p>
+                    <p>With a bright orange-red breast, brown back & dumpy shape, robins are familiar garden birds. They are one of only a few garden birds to sing throughout winter.</p>
+                </div>     
+        </div>
+    </div>
+            
+        <div id="article">
+            <p>Flowers</p>
+        </div>
+        <div id="article">
+            <p>Creatures</p>
+        </div>
+        <div id="article">
+            <p>Trees</p>
+        </div>
+    </div>
+
+
+</body>
+</html>
